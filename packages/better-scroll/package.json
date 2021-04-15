@@ -2,10 +2,6 @@
   "name": "@joyjoyful92/better-scroll",
   "version": "2.2.1",
   "description": "Full-featured BetterScroll",
-  "author": {
-    "name": "jizhi",
-    "email": "theniceangel@163.com"
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/"

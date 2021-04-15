@@ -1,6 +1,6 @@
 # better-scroll
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/better-scroll/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/better-scroll/README_zh-CN.md)
 
 BetterScroll with full plugin capabilities, don't care about the details of various plugin registrations.
 

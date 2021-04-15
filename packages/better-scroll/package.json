@@ -11,9 +11,9 @@
   "typings": "dist/types/index.d.ts",
   "scripts": {},
   "bugs": {
-    "url": "https://github.com/ustbhuangyi/better-scroll/issues"
+    "url": "https://github.com/joyjoyful92/better-scroll/issues"
   },
-  "homepage": "https://github.com/ustbhuangyi/better-scroll",
+  "homepage": "https://github.com/joyjoyful92/better-scroll",
   "keywords": [
     "scroll",
     "iscroll",
@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ustbhuangyi/better-scroll.git",
+    "url": "git@https://github.com/joyjoyful92/better-scroll-shcard.git",
     "directory": "packages/better-scroll"
   },
   "dependencies": {

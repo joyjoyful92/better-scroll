@@ -288,7 +288,7 @@ bs.getCurrentPage()
 
   - **参数**：
     - `{ number } time<可选>`：动画时长，默认是 `options.speed`
-    - `{ EaseItem } easing<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
+    - `{ EaseItem } easing<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
     ```typescript
     interface EaseItem {
       style: string
@@ -302,7 +302,7 @@ bs.getCurrentPage()
 
   - **参数**：
     - `{ number } time<可选>`：动画时长，默认是 `options.speed`
-    - `{ EaseItem } easing<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
+    - `{ EaseItem } easing<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
 
   滚动到上一张。
 
@@ -312,7 +312,7 @@ bs.getCurrentPage()
     - `{ number } pageX`：横向滚动到对应索引的 Page，下标从 0 开始
     - `{ number } pageY`：纵向滚动到对应索引的 Page，下标从 0 开始
     - `{ number } time<可选>`：动画时长，默认是 `options.speed`
-    - `{ EaseItem } easing<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
+    - `{ EaseItem } easing<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
 
   滚动到指定的 Page 位置。
 

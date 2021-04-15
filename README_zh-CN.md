@@ -2,7 +2,7 @@
 
 <img src="https://dpubstatic.udache.com/static/dpubimg/t_L6vAgQ-E/logo.svg">
 
-[![npm version](https://img.shields.io/npm/v/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![downloads](https://img.shields.io/npm/dm/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![Build Status](https://travis-ci.org/ustbhuangyi/better-scroll.svg?branch=master)](https://travis-ci.org/ustbhuangyi/better-scroll)  [![Package Quality](http://npm.packagequality.com/shield/better-scroll.svg)](http://packagequality.com/#?package=better-scroll)  [![codecov.io](http://codecov.io/github/ustbhuangyi/better-scroll/coverage.svg?branch=master)](http://codecov.io/github/ustbhuangyi/better-scroll)
+[![npm version](https://img.shields.io/npm/v/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![downloads](https://img.shields.io/npm/dm/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![Build Status](https://travis-ci.org/joyjoyful92/better-scroll.svg?branch=master)](https://travis-ci.org/joyjoyful92/better-scroll)  [![Package Quality](http://npm.packagequality.com/shield/better-scroll.svg)](http://packagequality.com/#?package=better-scroll)  [![codecov.io](http://codecov.io/github/joyjoyful92/better-scroll/coverage.svg?branch=master)](http://codecov.io/github/joyjoyful92/better-scroll)
 
 [1.x Docs](https://better-scroll.github.io/docs-v1/)
 
@@ -98,7 +98,7 @@ BetterScroll 提供了一个类，实例化的第一个参数是一个原生的 
 
 BetterScroll 也是一样的原理，我们可以用一张图更直观的感受一下：
 
-![布局](https://raw.githubusercontent.com/ustbhuangyi/better-scroll/master/packages/vuepress-docs/docs/.vuepress/public/assets/images/schematic.png)
+![布局](https://raw.githubusercontent.com/joyjoyful92/better-scroll/master/packages/vuepress-docs/docs/.vuepress/public/assets/images/schematic.png)
 
 绿色部分为 wrapper，也就是父容器，它会有**固定的高度**。黄色部分为 content，它是父容器的**第一个子元素**，它的高度会随着内容的大小而撑高。那么，当 content 的高度不超过父容器的高度，是不能滚动的，而它一旦超过了父容器的高度，我们就可以滚动内容区了，这就是 BetterScroll 的滚动原理。
 
@@ -129,12 +129,12 @@ let bs = new BScroll('.wrapper', {
 
 [Vue.js 高仿外卖饿了么实战课程](https://coding.imooc.com/class/74.html)
 
-[项目演示地址](http://ustbhuangyi.com/sell/)
+[项目演示地址](http://joyjoyful92.com/sell/)
 
-![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
+![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
 
 [Vue.js 音乐 App 高级实战课程](http://coding.imooc.com/class/107.html)
 
-[项目演示地址](http://ustbhuangyi.com/music/)
+[项目演示地址](http://joyjoyful92.com/music/)
 
-![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)
+![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)

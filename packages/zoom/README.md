@@ -1,6 +1,6 @@
 # @better-scroll/pull-up
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/zoom/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/zoom/README_zh-CN.md)
 
 Plugin for zooming in or out.
 

@@ -1,6 +1,6 @@
 # @better-scroll/pull-up
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/pull-up/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/pull-up/README_zh-CN.md)
 
 The ability to inject a pull-up load for BetterScroll.
 

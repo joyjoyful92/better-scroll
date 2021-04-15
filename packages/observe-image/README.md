@@ -1,6 +1,6 @@
 # @better-scroll/observe-image
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/observe-image/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/observe-image/README_zh-CN.md)
 
 when detecting images is loaded or failed to load, auto refresh BetterScroll's size.
 

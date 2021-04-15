@@ -4,7 +4,7 @@
     "description": "Docs of BetterScroll",
     "author": {
         "name": "huangyi",
-        "email": "ustbhuangyi@gmail.com"
+        "email": "joyjoyful92@gmail.com"
     },
     "private": true,
     "scripts": {
@@ -13,9 +13,9 @@
         "docs:release": "sh docs-release.sh"
     },
     "bugs": {
-        "url": "https://github.com/ustbhuangyi/better-scroll/issues"
+        "url": "https://github.com/joyjoyful92/better-scroll/issues"
     },
-    "homepage": "https://github.com/ustbhuangyi/better-scroll",
+    "homepage": "https://github.com/joyjoyful92/better-scroll",
     "keywords": [
         "scroll",
         "iscroll",
@@ -27,7 +27,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git@github.com:ustbhuangyi/better-scroll.git",
+        "url": "git@github.com:joyjoyful92/better-scroll.git",
         "directory": "packages/vuepress-docs"
     },
     "devDependencies": {

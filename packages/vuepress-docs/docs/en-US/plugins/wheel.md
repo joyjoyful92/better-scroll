@@ -190,7 +190,7 @@ bs.wheelTo(1, 300)
   - **Arguments**:
     - `{ number } index`
     - `{ number } time`: Animation duration
-    - `{ number } ease<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
+    - `{ number } ease<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
     ```typescript
     interface EaseItem {
       style: string

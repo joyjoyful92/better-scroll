@@ -1,6 +1,6 @@
 # better-scroll
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/nested-scroll/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/nested-scroll/README_zh-CN.md)
 
 nestedScroll is a plugin which helps you solve the trouble of nested Scroll
 

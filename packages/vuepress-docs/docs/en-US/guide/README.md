@@ -71,12 +71,12 @@ If you want to learn how to use BetterScroll in the real project，you can learn
 
 [High imitating starvation takeout practical course base on Vue.js](https://coding.imooc.com/class/74.html)
 
-[Project demo address](http://ustbhuangyi.com/sell/)
+[Project demo address](http://joyjoyful92.com/sell/)
 
-![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
+![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
 
 [Music App advanced practical course base on Vue.js](http://coding.imooc.com/class/107.html)
 
-[Project demo address](http://ustbhuangyi.com/music/)
+[Project demo address](http://joyjoyful92.com/music/)
 
-![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)
+![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)

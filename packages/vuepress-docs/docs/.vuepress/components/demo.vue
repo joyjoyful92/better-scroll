@@ -61,7 +61,7 @@
 <script>
 import QrCode from './qrcode.vue'
 //TODO replate url when publich 2.0
-const FALLBACK_URL = 'https://ustbhuangyi.github.io/better-scroll/#/'
+const FALLBACK_URL = 'https://joyjoyful92.github.io/better-scroll/#/'
 const BASE_URL = process.env.NODE_ENV === 'production' ?
   'https://better-scroll.github.io/examples/#/' :
    `http://${LOCAL_IP}:8932/#/`

@@ -1,6 +1,6 @@
 # @better-scroll/wheel
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/wheel/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/wheel/README_zh-CN.md)
 
 Implement a plugin similar to the effects of the IOS Picker component.
 

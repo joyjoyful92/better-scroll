@@ -1,6 +1,6 @@
 # @better-scroll/mouse-wheel
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/mouse-wheel/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/mouse-wheel/README_zh-CN.md)
 
 Allow the mouse wheel to manipulate scrolling behavior.
 

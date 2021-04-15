@@ -33,7 +33,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    repo: 'ustbhuangyi/better-scroll',
+    repo: 'joyjoyful92/better-scroll',
     docsBranch: 'dev',
     docsDir: 'packages/vuepress-docs/docs',
     editLinks: true,

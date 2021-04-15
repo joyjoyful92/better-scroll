@@ -181,7 +181,7 @@ With [ zoom ](./zoom.html#introduction) plugin, increase the zoom capability.
     - `{PositionY} y`: y coordinate
       - `PositionY: 'number | 'top' | 'bottom' | 'center'`
     - `{number} [time]<Optional>`: Scroll animation duration
-    - `{EaseItem} [easing]<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
+    - `{EaseItem} [easing]<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
 
     Put the content element in a certain position. x and y can be not only numbers, but also corresponding strings.
 

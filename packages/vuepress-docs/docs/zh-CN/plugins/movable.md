@@ -181,7 +181,7 @@ new BScroll('.bs-wrapper', {
     - `{PositionY} y`： y 坐标
       - `PositionY：'number | 'top' | 'bottom' | 'center'`
     - `{number} [time]<可选>`：滚动的动画时长
-    - `{EaseItem} [easing]<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
+    - `{EaseItem} [easing]<可选>`：缓动效果配置，参考 [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
 
     将 content 元素放置在某一个位置。x 与 y 不仅可以是数字，也可以是对应的字符串。
 

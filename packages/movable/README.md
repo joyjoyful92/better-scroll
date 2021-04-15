@@ -1,6 +1,6 @@
 # @better-scroll/movable
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/movable/README.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/movable/README.md)
 
 Movable area plugin.
 

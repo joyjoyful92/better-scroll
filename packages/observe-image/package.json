@@ -3,7 +3,7 @@
   "version": "2.2.1",
   "description": "Observe image loading for BetterScroll",
   "author": "theniceangel <theniceangel@163.com>",
-  "homepage": "https://github.com/ustbhuangyi/better-scroll/tree/master/packages/observe-image#readme",
+  "homepage": "https://github.com/joyjoyful92/better-scroll/tree/master/packages/observe-image#readme",
   "license": "MIT",
   "keywords": [
     "scroll",
@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ustbhuangyi/better-scroll.git",
+    "url": "git+https://github.com/joyjoyful92/better-scroll.git",
     "directory": "packages/observe-image"
   },
   "bugs": {
-    "url": "https://github.com/ustbhuangyi/better-scroll/issues"
+    "url": "https://github.com/joyjoyful92/better-scroll/issues"
   },
   "dependencies": {
     "@better-scroll/core": "^2.2.1"

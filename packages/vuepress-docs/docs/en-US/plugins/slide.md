@@ -288,7 +288,7 @@ bs.getCurrentPage()
 
   - **Arguments**:
     - `{ number } time<Optional>`: Animation duration, default is `options.speed`
-    - `{ EaseItem } easing<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
+    - `{ EaseItem } easing<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
     ```typescript
     interface EaseItem {
       style: string
@@ -302,7 +302,7 @@ bs.getCurrentPage()
 
   - **Arguments**:
     - `{ number } time<Optional>`: Animation duration, default is `options.speed`
-    - `{ EaseItem } easing<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
+    - `{ EaseItem } easing<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
 
   Scroll to the previous page.
 
@@ -312,7 +312,7 @@ bs.getCurrentPage()
     - `{ number } pageX`: Scroll horizontally to the Page of the corresponding index, the subscript starts from 0
     - `{ number } pageY`: Scroll vertically to the Page of the corresponding index, the subscript starts from 0
     - `{ number } time<Optional>`: Animation duration, default is `options.speed`
-    - `{ EaseItem } easing<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
+    - `{ EaseItem } easing<Optional>`: Ease effect configuration, refer to [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts), the default is `bounce` effect
 
   Scroll to the specified page.
 

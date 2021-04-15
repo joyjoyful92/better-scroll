@@ -947,5 +947,5 @@ A hook is a concept extended from version 2.0. Its essence is the same as an eve
       ```
 
 ::: tip
-If you are careful, you will find that some Scroller.hooks have exactly the same functions as ScrollActions.hooks. In fact, we internally use a [hook bubbling](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/core/src/utils/bubbling.ts) strategy to proxy the hooks of the inner function classes to the BetterScroll Instance in the form of bubbling to be compatible with the use of 1.x.
+If you are careful, you will find that some Scroller.hooks have exactly the same functions as ScrollActions.hooks. In fact, we internally use a [hook bubbling](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/core/src/utils/bubbling.ts) strategy to proxy the hooks of the inner function classes to the BetterScroll Instance in the form of bubbling to be compatible with the use of 1.x.
 :::

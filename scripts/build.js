@@ -60,7 +60,7 @@ const generateBanner = (packageName) => {
   let ret =
   '/*!\n' +
   ' * better-scroll / ' + packageName + '\n' +
-  ' * (c) 2016-' + new Date().getFullYear() + ' ustbhuangyi\n' +
+  ' * (c) 2016-' + new Date().getFullYear() + ' joyjoyful92\n' +
   ' * Released under the MIT License.\n' +
   ' */'
   return ret

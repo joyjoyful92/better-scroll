@@ -1,7 +1,7 @@
 <!--
 IMPORTANT: Please use the following link to create a new issue:
 
-  https://cube-ui.github.io/cube-issue-helper/?repo=ustbhuangyi/better-scroll
+  https://cube-ui.github.io/cube-issue-helper/?repo=joyjoyful92/better-scroll
 
 If your issue was not created using the app above, it will be closed immediately.
 

@@ -1,6 +1,6 @@
 # @better-scroll/scroll-bar
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/scroll-bar/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/scroll-bar/README_zh-CN.md)
 
 An elegant and beautiful scroll bar.
 

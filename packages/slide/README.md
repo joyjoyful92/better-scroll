@@ -1,6 +1,6 @@
 # @better-scroll/slide
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/slide/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/slide/README_zh-CN.md)
 
 The ability to inject a Carousel effect for BetterScroll.
 

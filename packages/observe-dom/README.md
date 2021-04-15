@@ -1,6 +1,6 @@
 # @better-scroll/observe-dom
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/observe-dom/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/observe-dom/README_zh-CN.md)
 
 recaculating BetterScroll's scrollHeight or scrollWidth by `MutationObserver`, with this, you don't care when BetterScroll's scrollHeight or scrollWidth have changed. Plugin has done it for you.
 

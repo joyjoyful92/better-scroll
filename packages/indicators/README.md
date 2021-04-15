@@ -1,6 +1,6 @@
 # @better-scroll/indicators
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/indicators/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/indicators/README_zh-CN.md)
 
 Indicator can be used to achieve magnifying glass, parallax scrolling and other effects.
 

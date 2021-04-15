@@ -2,9 +2,9 @@
 
 <img src="https://dpubstatic.udache.com/static/dpubimg/t_L6vAgQ-E/logo.svg">
 
-[![npm version](https://img.shields.io/npm/v/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![downloads](https://img.shields.io/npm/dm/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![Build Status](https://travis-ci.org/ustbhuangyi/better-scroll.svg?branch=master)](https://travis-ci.org/ustbhuangyi/better-scroll)  [![Package Quality](http://npm.packagequality.com/shield/better-scroll.svg)](http://packagequality.com/#?package=better-scroll) [![codecov.io](http://codecov.io/github/ustbhuangyi/better-scroll/coverage.svg?branch=master)](http://codecov.io/github/ustbhuangyi/better-scroll)
+[![npm version](https://img.shields.io/npm/v/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![downloads](https://img.shields.io/npm/dm/better-scroll.svg)](https://www.npmjs.com/package/better-scroll) [![Build Status](https://travis-ci.org/joyjoyful92/better-scroll.svg?branch=master)](https://travis-ci.org/joyjoyful92/better-scroll)  [![Package Quality](http://npm.packagequality.com/shield/better-scroll.svg)](http://packagequality.com/#?package=better-scroll) [![codecov.io](http://codecov.io/github/joyjoyful92/better-scroll/coverage.svg?branch=master)](http://codecov.io/github/joyjoyful92/better-scroll)
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/README_zh-CN.md)
 
 [1.x Docs](https://better-scroll.github.io/docs-v1/)
 
@@ -113,7 +113,7 @@ The phenomenon is 'the content can't scroll' and we need to figure out the root 
 
 The principle of BetterScroll is samed as the browser. We can feel about this more obviously using a picture:
 
-![布局](https://raw.githubusercontent.com/ustbhuangyi/better-scroll/master/packages/vuepress-docs/docs/.vuepress/public/assets/images/schematic.png)
+![布局](https://raw.githubusercontent.com/joyjoyful92/better-scroll/master/packages/vuepress-docs/docs/.vuepress/public/assets/images/schematic.png)
 
 The green part is the wrapper, also known as the parent container, which has **fixed height**. The yellow part is the content, which is **the first child element** of the parent container and whose height would grow with the size of its content. Then, when the height of the content doesn't exceed the height of the parent container, the content would not scroll. Once exceeded, the content can be scrolled. That is the principle of BetterScroll.
 
@@ -144,12 +144,12 @@ If you want to learn how to use BetterScroll in the real project，you can learn
 
 [High imitating starvation takeout practical course base on Vue.js](https://coding.imooc.com/class/74.html)
 
-[Project demo address](http://ustbhuangyi.com/sell/)
+[Project demo address](http://joyjoyful92.com/sell/)
 
-![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
+![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
 
 [Music App advanced practical course base on Vue.js](http://coding.imooc.com/class/107.html)
 
-[Project demo address](http://ustbhuangyi.com/music/)
+[Project demo address](http://joyjoyful92.com/music/)
 
-![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)
+![QR Code](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)

@@ -190,7 +190,7 @@ bs.wheelTo(1, 300)
   - **参数**：
     - `{ number } index`：选项索引
     - `{ number } time`：动画时长
-    - `{ number } ease<可选>`：动画时长。缓动效果配置，参考 [ease.ts](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
+    - `{ number } ease<可选>`：动画时长。缓动效果配置，参考 [ease.ts](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/shared-utils/src/ease.ts)，默认是 `bounce` 效果
 
   滚动至对应索引的列表项。
 

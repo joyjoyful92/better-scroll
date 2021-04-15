@@ -72,12 +72,12 @@ BetterScroll 也是一样的原理，我们可以用一张图更直观的感受�
 
 [Vue.js 高仿外卖饿了么实战课程](https://coding.imooc.com/class/74.html)
 
-[项目演示地址](http://ustbhuangyi.com/sell/)
+[项目演示地址](http://joyjoyful92.com/sell/)
 
-![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
+![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fsell%252F%2523%252Fgoods&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=686203a49c4613080b5b3004323ff977)
 
 [Vue.js 音乐 App 高级实战课程](http://coding.imooc.com/class/107.html)
 
-[项目演示地址](http://ustbhuangyi.com/music/)
+[项目演示地址](http://joyjoyful92.com/music/)
 
-![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)
+![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fjoyjoyful92.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)

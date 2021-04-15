@@ -941,5 +941,5 @@ BetterScroll 提供了很多灵活的 API，当我们基于 BetterScroll 去实�
       ```
 
 ::: tip 提示
-细心的你会发现，有部分 Scroller.hooks 与 ScrollActions.hooks 的功能一模一样，其实我们内部采用了一种 [钩子冒泡](https://github.com/ustbhuangyi/better-scroll/blob/dev/packages/core/src/utils/bubbling.ts) 的策略，将内层功能类的钩子，通过冒泡的形式一直代理到 BetterScroll Instance 来兼容 1.x 的使用方式。
+细心的你会发现，有部分 Scroller.hooks 与 ScrollActions.hooks 的功能一模一样，其实我们内部采用了一种 [钩子冒泡](https://github.com/joyjoyful92/better-scroll/blob/dev/packages/core/src/utils/bubbling.ts) 的策略，将内层功能类的钩子，通过冒泡的形式一直代理到 BetterScroll Instance 来兼容 1.x 的使用方式。
 :::

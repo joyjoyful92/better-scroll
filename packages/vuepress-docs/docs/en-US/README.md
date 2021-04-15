@@ -10,5 +10,5 @@ features:
   details: Based on native JS implementation, it does not depend on any framework. Perfect for Vue, React and other MVVM frameworks.
 - title: Pluggable
   details: Plugin support, such as Picker, PullUpLoad, PullDownRefresh, Zoom, Mouse-Wheel, Slide, Movable, Indicators, Parallax Scrolling, Magnifier and so on.
-footer: MIT Licensed | Copyright © 2018-present ustbhuangyi and theniceangel
+footer: MIT Licensed | Copyright © 2018-present joyjoyful92 and theniceangel
 ---

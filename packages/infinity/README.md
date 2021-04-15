@@ -1,6 +1,6 @@
 # @better-scroll/infinity
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/infinity/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/infinity/README_zh-CN.md)
 
 The ability to inject a infinity load for BetterScroll.
 

@@ -1,6 +1,6 @@
 # @better-scroll/core
 
-[中文文档](https://github.com/ustbhuangyi/better-scroll/blob/master/packages/core/README_zh-CN.md)
+[中文文档](https://github.com/joyjoyful92/better-scroll/blob/master/packages/core/README_zh-CN.md)
 
 core scroll from BetterScroll.
 

@@ -1,5 +1,5 @@
 {
-  "name": "better-scroll",
+  "name": "@joyjoyful92/better-scroll",
   "version": "2.2.1",
   "description": "Full-featured BetterScroll",
   "author": {
@@ -7,7 +7,8 @@
     "email": "theniceangel@163.com"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "main": "dist/better-scroll.js",
   "module": "dist/better-scroll.esm.js",
